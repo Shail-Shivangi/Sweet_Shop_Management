@@ -1,0 +1,139 @@
+{
+  "sweets": [
+    {
+      "id": 1,
+      "name": "Gulab Jamun",
+      "price": 200.00,
+      "category": "Syrup Dip",
+      "quantity": 35,
+      "image": "../assets/gullabJamun.jpg",
+      "description": "Soft, spongy, milk-solid based sweet balls soaked in a rose-scented sugar syrup. A classic Indian dessert."
+    },
+    {
+      "id": 2,
+      "name": "Rasgulla",
+      "price": 490.00,
+      "category": "Bengali",
+      "quantity": 50,
+      "image": "../assets/rasgulla.jpg",
+      "description": "Cottage cheese balls boiled in light sugar syrup. Light, juicy, and famous across Eastern India."
+    },
+    {
+      "id": 3,
+      "name": "Kaju Katli",
+      "price": 650.00,
+      "category": "Dry Sweet",
+      "quantity": 25,
+      "image": "../assets/kajuKatli2.jpg",
+      "description": "Diamond-shaped cashew fudge (barfi) made with cashews, sugar, and cardamom powder. Finished with edible silver foil."
+    },
+    {
+      "id": 4,
+      "name": "Orange Delight Roll",
+      "price": 250.00,
+      "category": "Fusion",
+      "quantity": 15,
+      "image": "../assets/orangeroll.jpg",
+      "description": "A dense, rich roll of milk solids and orange zest, offering a refreshing citrus flavor."
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Barfi",
+      "price": 200.75,
+      "category": "Fusion",
+      "quantity": 30,
+      "image": "../assets/chocolate.jpg",
+      "description": "A creamy, decadent milk fudge mixed with rich cocoa powder, creating a perfect blend of Indian tradition and Western flavor."
+    },
+    {
+      "id": 6,
+      "name": "Jalebi",
+      "price": 180.00,
+      "category": "Crispy",
+      "quantity": 40,
+      "image": "../assets/jalebi.png",
+      "description": "Crispy, deep-fried spirals of fermented batter soaked in sugar syrup. Best served warm."
+    },
+    {
+      "id": 7,
+      "name": "Peda",
+      "price": 180.00,
+      "category": "Milk Solids",
+      "quantity": 22,
+      "image":"../assets/peda.jpg",
+      "description": "Thick semi-soft fudge made from khoa (milk solids) with cardamom flavor. A staple offering."
+    },
+    {
+      "id": 8,
+      "name": "Malai Chop",
+      "price": 165.00,
+      "category": "Bengali",
+      "quantity": 4,
+      "image": "../assets/malaiChop.jpg",
+      "description": "Flattened pieces of cottage cheese soaked in malai (clotted cream) and flavored with saffron."
+    },
+    {
+      "id": 9,
+      "name": "Mysore Pak",
+      "price": 420.00,
+      "category": "Ghee Rich",
+      "quantity": 30,
+      "image": "../assets/mysorePak.jpg",
+      "description": "A rich, porous fudge made from chickpea flour, sugar, and generous amounts of ghee (clarified butter)."
+    },
+    {
+      "id": 10,
+      "name": "Coconut Ladoo",
+      "price": 230.00,
+      "category": "Dry Sweet",
+      "quantity": 45,
+      "image": "../assets/coconutLadoo.jpg",
+      "description": "Round sweets made from grated coconut, condensed milk, and cardamom. Perfect festive treat."
+    },
+    {
+      "id": 11,
+      "name": "Ras Malai",
+      "price": 750.00,
+      "category": "Syrup Dip",
+      "quantity": 12,
+      "image": "../assets/rasMalai.jpg",
+      "description": "Soft cottage cheese patties dipped in sweetened, thickened milk flavored with saffron and pistachios."
+    },
+    {
+      "id": 12,
+      "name": "Motichoor Ladoo",
+      "price": 390.00,
+      "category": "Ghee Rich",
+      "quantity": 28,
+      "image": "../assets/ladoo.jpg",
+      "description": "Small, bead-like boondi pearls lightly bound together with sugar syrup and ghee. Delicate texture."
+    },
+    {
+      "id": 13,
+      "name": "Anjeer Barfi",
+      "price": 550.00,
+      "category": "Sugar Free",
+      "quantity": 10,
+      "image": "../assets/AngirBarfi.jpg",
+      "description": "A premium, rich barfi made primarily from figs (anjeer), dates, and mixed nuts, often containing no added sugar."
+    },
+    {
+      "id": 14,
+      "name": "Chocolate Truffle",
+      "price": 350.00,
+      "category": "Modern",
+      "quantity": 40,
+      "image": "../assets/chocolateTruffle.jpg",
+      "description": "Rich, dense chocolate ganache spheres dusted with cocoa powder."
+    },
+    {
+      "id": 15,
+      "name": "Kesar Peda",
+      "price": 210.00,
+      "category": "Milk Solids",
+      "quantity": 20,
+      "image": "../assets/kesarPeda.jpg",
+      "description": "Classic peda infused with high-quality saffron (kesar) for color and aroma."
+    }
+  ]
+}
