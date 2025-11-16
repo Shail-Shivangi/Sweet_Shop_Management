@@ -155,4 +155,4 @@ I utilized a Large Language Model (Gemini) throughout the development process to
 
 ## 🔗 Public Repository Link
 
-[[Your Public Repository Link Here](https://github.com/Shail-Shivangi/Sweet_Shop_Management)]
+[(https://github.com/Shail-Shivangi/Sweet_Shop_Management)]
